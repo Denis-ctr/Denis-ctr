@@ -1,18 +1,16 @@
-<h1 align="center"> Hi, I'm Berfin 👋! </h1>
+<h1 align="center"> Hi, I'm Denis 👋! </h1>
 <p align="center">
-  <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
-  🎓 Computer Education & Instructional Technologies graduate from <b>METU</b> (GPA: 3.56)
+  I am data enthuasist.I work with data and creating chatbots or something else with large language models.I study in STK,Computer Science.
 </p>
 
 ---
 
 ### 💻 About Me
 
-- 🎓 Graduated with honors from METU with a GPA of 3.56  
-- 🤖 Winner of the **ITURO 2023** Robotics Competition - Traffic Tracking Robot  
-- 💡 Hands-on experience in R&D projects with Aselsan & Huawei  
-- 🌍 Participant of international hackathons and trainings like Microsoft Women in AI, IBM AI for Everyone, and more  
-- 🔬 Currently working on ROS, simulation, and reinforcement learning in robotics  
+- 🎓 Computer Science | Data Science,Machine Learning and OS's 
+- Participitant of Chiraq Development Programme
+- Trainings courses like IBM Data Science Orientation,LinkedIn Learning What is Generative AI
+- 🔬 Currently working on own Operaion System
 
 ---
 
@@ -34,7 +32,6 @@
 
 - Participant of Chiraq Development Programme
 - Founder of CareerAI and Valuebot
-- 
 
 ### 📫 Let's Connect
 
