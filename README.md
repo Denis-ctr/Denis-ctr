@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif
+[](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 <h1 align="center"> Hi, I'm Denis 👋! </h1>
 <p align="center">
   I am data enthuasist.I work with data and creating chatbots or something else with large language models.I study in STK,Computer Science.
