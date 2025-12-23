@@ -10,9 +10,9 @@
 
 ### 💻 About Me
 
-- 🎓 Computer Science | Data Science,Machine Learning and OS's 
+- 🎓 Computer Science | Data Science, Machine Learning and OS's 
 - Participitant of Chiraq Development Programme
-- Trainings courses like IBM Data Science Orientation,LinkedIn Learning What is Generative AI
+- Trainings courses like IBM Data Science Orientation, LinkedIn Learning What is Generative AI
 - 🔬 Currently working on own Operaion System
 
 ---
