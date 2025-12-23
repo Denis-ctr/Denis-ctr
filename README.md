@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi, I'm Denis 👋! </h1>
 <p align="center">
-  I am data enthuasist.I work with data and creating chatbots or something else with large language models.I study in STK,Computer Science.
+  I am data enthuasist. I work with data and creating chatbots or something else with large language models. I study in STK, Computer Science.
 </p>
 
 ---
