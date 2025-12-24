@@ -44,7 +44,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Contributions](https://ghchart.rshah.org/Denis-ctr)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Denis-ctr)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=radical" alt="langs"/>
