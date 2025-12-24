@@ -48,9 +48,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=radical" alt="langs"/>
-  
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=default" alt="GitHub Stats" />
-  
+  <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denis-ctr" alt="GitHub Streak" />
   <br/>
