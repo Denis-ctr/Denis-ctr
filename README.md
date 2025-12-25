@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=radical" alt="langs"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denis-ctr" alt="GitHub Streak" />
+  [![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 
 
