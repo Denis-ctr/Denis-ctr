@@ -1,59 +1,61 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%">
-<br><br>
 
 <h1 align="center"> Hi, I'm Denis 👋! </h1>
+
 <p align="center">
-  I am data enthuasist. I work with data and creating chatbots or something else with large language models. I study in STK, Computer Science.
+  <strong>Data Enthusiast | LLM & Chatbot Developer | Computer Science Student at STK</strong>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/denis-gülməmmədov-4a04a9333"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:denisgulmd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💻 About Me
+### 📖 About Me
 
-- 🎓 Computer Science | Data Science, Machine Learning and OS's 
-- Participitant of Chiraq Development Programme
-- Trainings courses like IBM Data Science Orientation, LinkedIn Learning What is Generative AI
-- 🔬 Currently working on own Operaion System
+- 🎓 **Education:** Studying Computer Science at STK, focusing on Data Science and OS Development.
+- 💡 **Interests:** Large Language Models (LLMs), Generative AI, and Machine Learning.
+- 🚀 **Projects:** Founder of **CareerAI** and **Valuebot**.
+- 🛠️ **Current Focus:** Developing my own **Operating System**.
+- 🌟 **Experience:** Participant of **Chiraq Development Programme**.
 
 ---
 
-
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
 #### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Nim](https://img.shields.io/github/v/tag/daylinmorgan/forge?filter=v*&logo=Nim&label=nimble&labelColor=black&color=%23f3d400)
-
-#### ⚙️ Tools & Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 🏆 Awards & Projects
-
-- Participant of Chiraq Development Programme
-- Founder of CareerAI and Valuebot
-
-### 📫 Let's Connect
-
-- 📩 Email: [denisgulmd@gmail.com](denisgulmd@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/denis-gülməmmədov-4a04a9333)  
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=radical" alt="langs"/>
-
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nim-FFE100?style=for-the-badge&logo=nim&logoColor=black" />
 </p>
 
+#### ⚙️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-<p align="center">🚀 Always building, always learning!</p>
+### 📊 GitHub Activity & Stats
+
+#### 📈 Contribution Graph
+![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=tokyonight&area=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=radical" width="43%" />
+</p>
+
+---
+
+### 🏆 Key Achievements & Certificates
+- 📜 **IBM:** Data Science Orientation
+- 📜 **LinkedIn Learning:** What is Generative AI?
+- 🏅 **Chiraq Development Programme** Alumni
+
+<p align="center">🚀 <i>Always building, always learning!</i></p>
