@@ -50,11 +50,12 @@
 ### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Denis-ctr&theme=dark&background=0D1117&ring=40C463&fire=40C463&currStreakLabel=40C463" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=github-compact&bg_color=0d1117&hide_border=true&color=40c463&line=40c463&point=40c463" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/Denis-ctr" alt="Denis's Github Chart" width="100%" style="background-color: #0d1117; padding: 10px; border-radius: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463&icon_color=40c463" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463" width="45%" />
 </p>
 
 ---
