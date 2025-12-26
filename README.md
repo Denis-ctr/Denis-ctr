@@ -42,30 +42,9 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-
----
-
-### 📊 My Activity
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/Denis-ctr?theme=dark" alt="Denis's Github Chart" width="100%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&hide_border=true" width="45%" />
-</p>
-
----
-
----
-
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/Denis-ctr?theme=dark" alt="Denis's Github Chart" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463&icon_color=40c463" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463" width="45%" />
 </p>
 
 ---
