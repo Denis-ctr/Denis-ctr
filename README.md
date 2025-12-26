@@ -54,7 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463" width="45%" />
 </p>
 
----
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/Denis-ctr?theme=dark" alt="Denis's Github Chart" width="100%" />
+</p>
 
 ---
 
