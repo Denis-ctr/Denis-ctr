@@ -46,14 +46,15 @@
 #### 📈 Activity Graph
 ![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=tokyonight&area=true)
 
+
 ### 📊 GitHub Contributions
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/Denis-ctr" alt="Denis's Github Chart" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Denis-ctr&theme=dark&background=0D1117&ring=40C463&fire=40C463&currStreakLabel=40C463" alt="Streak Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=radical" width="43%" />
+  <img src="https://ghchart.rshah.org/40c463/Denis-ctr" alt="Denis's Github Chart" width="100%" style="background-color: #0d1117; padding: 10px; border-radius: 5px;" />
 </p>
 
 ---
