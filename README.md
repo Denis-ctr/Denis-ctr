@@ -47,7 +47,7 @@
 ![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=tokyonight&area=true)
 
 #### 🟩 Contribution Grid
-![Denis's GitHub grid](https://ghchart.rshah.org/2196f3/Denis-ctr)
+![Denis's GitHub contribution grid](https://ghchart.rshah.org/40c463/Denis-ctr)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=radical&count_private=true" width="48%" />
