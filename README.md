@@ -43,10 +43,6 @@
 
 ### 📊 GitHub Activity & Stats
 
-#### 📈 Activity Graph
-![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=tokyonight&area=true)
-
-
 ### 📊 GitHub Contributions
 
 <p align="center">
