@@ -40,11 +40,17 @@
 </p>
 
 ---
+### 📊 GitHub Analytics
 
-### 📊 GitHub Activity & Stats
+#### 🟢 Contribution Grid
+![Denis's GitHub contribution grid](https://ghchart.rshah.org/40c463/Denis-ctr)
+
+#### 📈 Activity Trend
+![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=github&area=true)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463&icon_color=40c463" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark" width="43%" />
 </p>
 
 ---
