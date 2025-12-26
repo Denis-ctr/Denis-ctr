@@ -49,10 +49,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=github-compact&bg_color=0d1117&hide_border=true&color=40c463&line=40c463&point=40c463" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463&icon_color=40c463" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=40c463" width="45%" />
-</p>
+
 
 
 <p align="center">
