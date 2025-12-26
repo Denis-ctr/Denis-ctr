@@ -43,16 +43,22 @@
 
 ### 📊 GitHub Activity & Stats
 
+---
+
+### 📊 My Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Denis-ctr/Denis-ctr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/Denis-ctr?theme=dark" alt="Denis's Github Chart" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=40c463&icon_color=40c463" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=40c463" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark&hide_border=true" width="45%" />
 </p>
+
+---
 
 ---
 
