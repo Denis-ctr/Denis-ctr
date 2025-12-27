@@ -20,7 +20,7 @@
 - 🚀 **Projects:** Founder of **CareerAI** and **Valuebot**.
 - 🛠️ **Current Focus:** Developing my own **Operating System**.
 - 🌟 **Experience:** Participant of **Chiraq Development Programme**.
-
+-    **now** Working on the two "Startups"
 ---
 
 ### 🛠 Tech Stack
