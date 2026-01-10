@@ -55,7 +55,6 @@
 </p>
 
 ---
-
 ### 🏆 Key Achievements & Certificates
 - 📜 **IBM:** Data Science Orientation
 - 📜 **LinkedIn Learning:** What is Generative AI?
