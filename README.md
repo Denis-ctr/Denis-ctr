@@ -50,13 +50,6 @@
 #### 📈 Activity Trend
 ![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=github&area=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark" width="43%" />
-</p>
-
 ---
 ### 🏆 Key Achievements & Certificates
 - 📜 **IBM:** Data Science Orientation
