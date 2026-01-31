@@ -46,7 +46,6 @@
 #### 🟢 Contribution Grid
 ![Denis's GitHub contribution grid](https://ghchart.rshah.org/40c463/Denis-ctr)
 
-
 #### 📈 Activity Trend
 ![Denis's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-ctr&theme=github&area=true)
 
