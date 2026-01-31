@@ -52,6 +52,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Denis-ctr&show_icons=true&theme=github_dark&count_private=true" width="48%" />
+
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&layout=compact&theme=github_dark" width="43%" />
 </p>
 
