@@ -1,5 +1,5 @@
-
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%">
+
 
 <h1 align="center"> Hi, I'm Denis 👋! </h1>
 
@@ -9,7 +9,6 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1010501907980222494) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/philosophoftech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DenisGülməmmədov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisgulmd@gmail.com) 
-
 
 
 # 💻 Tech Stack:
@@ -26,5 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=Denis-ctr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
