@@ -3,10 +3,8 @@
 
 <h1 align="center"> Hi, I'm Denis 👋! </h1>
 
-
 # 💫 About Me:
 🏆 Key Achievements & Certificates<br><br>    📜 IBM: Data Science Orientation<br>    📜 LinkedIn Learning: What is Generative AI?<br>    🏅 Chiraq Development Programme Alumni<br><br><br>Hi, I'm Denis 👋! <br><br>Data Enthusiast | LLM & Chatbot Developer | Computer Science Student at STK<br><br>Developing my own Operating System. <br><br><br>    🎓 Education: Studying Computer Science at STK, focusing on Data Science and OS Development.<br>    💡 Interests: Large Language Models (LLMs), Generative AI, and Machine Learning.<br>    🚀 Projects: Founder of CareerAI and Valuebot.<br>    🛠️ Current Focus: Developing my own Operating System.<br>    🌟 Experience: Participant of Chiraq Development Programme.<br>    now Working on the two "Startups"<br><br><br><br>i know nim and python programmin languages and AI models and docker git linux and openai<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1010501907980222494) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/philosophoftech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DenisGülməmmədov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisgulmd@gmail.com) 
@@ -23,9 +21,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Denis-ctr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
