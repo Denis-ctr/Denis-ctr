@@ -2,9 +2,7 @@ Fan of Terry the Terriblee
 
 ![Terry the KING Davis](https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif)
 
-<h1 align="center"> I'm Denis </h1>
-
-🏆 Key Achievements & Certificates<br><br>    📜 IBM: Data Science Orientation<br>    📜 LinkedIn Learning: What is Generative AI?<br>    🏅 Chiraq Development Programme Alumni<br><br><br>Hi, I'm Denis 👋! <br><br>Data Enthusiast | LLM & Chatbot Developer | Computer Science Student at STK<br><br>Developing my own Operating System. <br><br><br>    🎓 Education: Studying Computer Science at STK, focusing on Data Science and OS Development.<br>    💡 Interests: Large Language Models (LLMs), Generative AI, and Machine Learning.<br>    🚀 Projects: Founder of CareerAI and Valuebot.<br>    🛠️ Current Focus: Developing my own Operating System.<br>    🌟 Experience: Participant of Chiraq Development Programme.<br>    now Working on the two "Startups"<br><br><br><br>i know nim and python programmin languages and AI models and docker git linux and openai<br>
+<h1 align="center"> I'm Denis - a software nerd </h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1010501907980222494) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/philosophoftech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-g%C3%BClm%C9%99mm%C9%99dov-4a04a9333/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DenisGülməmmədov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denisgulmd@gmail.com) 
@@ -20,12 +18,6 @@ Fan of Terry the Terriblee
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Denis-ctr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Denis-ctr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-ctr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
