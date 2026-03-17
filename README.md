@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%">
-
 Fan of Terry the Terriblee
 
 ![Terry the KING Davis](https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif)
@@ -36,3 +34,5 @@ Fan of Terry the Terriblee
 [![](https://visitcount.itsvg.in/api?id=Denis-ctr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="100%">
