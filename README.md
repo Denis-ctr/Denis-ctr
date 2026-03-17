@@ -4,9 +4,8 @@ Fan of Terry the Terriblee
 
 ![Terry the KING Davis](https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif)
 
-<h1 align="center"> Hi, I'm Denis 👋! </h1>
+<h1 align="center"> I'm Denis </h1>
 
-# 💫 About Me:Ichihiroy/README
 🏆 Key Achievements & Certificates<br><br>    📜 IBM: Data Science Orientation<br>    📜 LinkedIn Learning: What is Generative AI?<br>    🏅 Chiraq Development Programme Alumni<br><br><br>Hi, I'm Denis 👋! <br><br>Data Enthusiast | LLM & Chatbot Developer | Computer Science Student at STK<br><br>Developing my own Operating System. <br><br><br>    🎓 Education: Studying Computer Science at STK, focusing on Data Science and OS Development.<br>    💡 Interests: Large Language Models (LLMs), Generative AI, and Machine Learning.<br>    🚀 Projects: Founder of CareerAI and Valuebot.<br>    🛠️ Current Focus: Developing my own Operating System.<br>    🌟 Experience: Participant of Chiraq Development Programme.<br>    now Working on the two "Startups"<br><br><br><br>i know nim and python programmin languages and AI models and docker git linux and openai<br>
 
 ## 🌐 Socials:
