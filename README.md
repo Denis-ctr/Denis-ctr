@@ -6,7 +6,6 @@ Fan of
 ![Terry the KING Davis](https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif)
 
 
-
   Socials
   
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1010501907980222494)
