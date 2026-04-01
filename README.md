@@ -35,3 +35,4 @@ Fan of
 ![Dotenv](https://img.shields.io/badge/Dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Python-Antigravity-blueviolet?style=for-the-badge&logo=python&logoColor=white)
